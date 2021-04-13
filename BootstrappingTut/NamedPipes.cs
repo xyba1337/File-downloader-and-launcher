@@ -8,7 +8,7 @@ namespace bootstrapping
 {
     class NamedPipes
     {
-        public static string luapipename = ("YnJ1aA==");//easyexploits api pipename
+        public static string luapipename = ("YnJ1aA==");//easyexploits module pipename, you have to individually find this one for every exploit
 
         [DllImport("kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]
