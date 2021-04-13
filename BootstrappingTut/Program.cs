@@ -40,11 +40,11 @@ namespace BootstrappingTut
             {
                 if (NamedPipes.NamedPipeExist(NamedPipes.luapipename))
                 {
-                    Console.WriteLine("works");
+                    Console.WriteLine("Pipe found");
                 }
                 else
                 {
-                    Console.WriteLine("ah shit");
+                    Console.WriteLine("Pipe doesn't exist");
                 }
                 //foreach (Process pc in Process.GetProcessesByName("RobloxPlayerBeta"))
                 //    try
@@ -63,7 +63,7 @@ namespace BootstrappingTut
         public static void download()
         {
             WebClient wc = new WebClient();
-            wc.DownloadFileAsync(new Uri ("https://cdn.discordapp.com/attachments/487021226519298050/720271531770642533/files.zip"), @".\files.zip");
+            wc.DownloadFileAsync(new Uri ("put_your_download_here"), @".\files.zip");
             Thread.Sleep(2500);
             Console.WriteLine("Downloaded files");
         }
@@ -104,7 +104,7 @@ namespace BootstrappingTut
             extract();
             startprocess();
             Console.WriteLine("");
-            Console.WriteLine("Window won't close due to the fact that you need to tell the problem to close itself after everything is done. You can find out how to do that yourself im pretty sure! Good luck :D");
+            Console.WriteLine("Window won't close due to the fact that you need to tell the problem to close itself after everything is done. You can find out how to do that yourself im pretty sure!");
             Console.ReadKey();
         }
     }
