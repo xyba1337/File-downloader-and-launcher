@@ -1,7 +1,6 @@
 # File-downloader-and-launcher
 Simple file bootstrapper which only uses .NET WebClient for it's entirety.
-
-Easily write your own Discord bot in PHP.
+Use this only if you're trying to keep a small userbase updated, as a lot of people will have issues with the download due to the fact that the way of handling the download is not optimized well enough. Read more in -> Note
 
 ## Note
 
