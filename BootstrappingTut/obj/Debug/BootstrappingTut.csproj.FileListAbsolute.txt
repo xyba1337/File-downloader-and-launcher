@@ -1,0 +1,7 @@
+C:\Users\Jan\source\repos\BootstrappingTut\BootstrappingTut\bin\Debug\BootstrappingTut.exe.config
+C:\Users\Jan\source\repos\BootstrappingTut\BootstrappingTut\bin\Debug\BootstrappingTut.exe
+C:\Users\Jan\source\repos\BootstrappingTut\BootstrappingTut\bin\Debug\BootstrappingTut.pdb
+C:\Users\Jan\source\repos\BootstrappingTut\BootstrappingTut\obj\Debug\BootstrappingTut.csprojAssemblyReference.cache
+C:\Users\Jan\source\repos\BootstrappingTut\BootstrappingTut\obj\Debug\BootstrappingTut.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\BootstrappingTut\BootstrappingTut\obj\Debug\BootstrappingTut.exe
+C:\Users\Jan\source\repos\BootstrappingTut\BootstrappingTut\obj\Debug\BootstrappingTut.pdb
